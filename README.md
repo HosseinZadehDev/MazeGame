@@ -1,2 +1,2 @@
 # MazeGame
-preview : preview.hosseinzadeh.website/MazeGame
+preview : http://preview.hosseinzadeh.website/MazeGame
